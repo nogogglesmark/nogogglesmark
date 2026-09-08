@@ -35,12 +35,12 @@
 <tr>
 
 <td align="center">
-<img src="./pico.png" width="300" alt="Artwork">
+<img src="https://i.postimg.cc/BQqVvbTV/In-Shot-20260908-043252680.png" width="300" alt="Artwork">
 </td>
 
 <td align="center">
-$\color{#A8E6CF}{\textsf{all the Credits to the}}$ 
-$\color{#A8E6CF}{\textsf{artist!}}$ 
+$\color{#A8E6CF}{\textsf{all the Credits}}$ 
+$\color{#A8E6CF}{\textsf{to the artist!}}$ 
 </td>
 
 </tr>
