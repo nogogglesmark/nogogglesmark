@@ -30,3 +30,18 @@
 <p align="center">
   <img src="https://i.postimg.cc/MpmNDRWG/In-Shot-20260908-043739209.png" width="450">
 </p>
+
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="./pico.png" width="300" alt="Artwork">
+</td>
+
+<td align="center">
+$\color{#A8E6CF}{\textsf{all the Credits to the}}$ 
+$\color{#A8E6CF}{\textsf{artist!}}$ 
+</td>
+
+</tr>
+</table>
