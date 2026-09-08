@@ -45,3 +45,7 @@ $\color{#A8E6CF}{\textsf{to the artist!}}$
 
 </tr>
 </table>
+
+<p align="center">
+  <img src="" width="200">
+</p>
