@@ -8,12 +8,12 @@
  <a
 
 <div align="center">
-<img src="" width="30">
+<img src="https://i.postimg.cc/htWpNGCQ/3f5bcb6cb126f029823af8a5fce4e54c.gif" width="30">
 </a> 
 <a
  
   <div align="center">
-<img src="https://img.shields.io/badge/56k-kills-A8E6CF?labelColor=555555"> 
+<img src="https://img.shields.io/badge/Kills-56K-A8E6CF?labelColor=555555"> 
 </a> 
 
 <p align="center">
