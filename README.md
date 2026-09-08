@@ -54,5 +54,7 @@ $\color{#A8E6CF}{\textsf{No Goggles Mark}}$
 $\color{#A8E6CF}{\textsf{From Invincible}}$ 
 
  <p alalign="center">
-  <img src="" width="200">
+  <img src="https://i.postimg.cc/XqcNkqqP/In-Shot-20260908-072529519.png" width="200">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A8E6CF,100:A8E6CF&height=2&section=header"/>
