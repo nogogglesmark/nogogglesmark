@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A8E6CF,100:A8E6CF&height=2&section=header"/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=50&duration=3500&pause=1200&color=A8E6CF&center=true&vCenter=true&width=900&lines=No+torture%2C+no+screaming%2C+no+fun!!" />
 </p>
@@ -48,7 +50,8 @@ $\color{#A8E6CF}{\textsf{to the artist!}}$
 
 
 <p align="center">$\color{#A8E6CF}{\textsf{Alt Account for}}$
-$\color{#A8E6CF}{\textsf{No Goggles Mark}}$ 
+$\color{#A8E6CF}{\textsf{No Goggles Mark}}$
+$\color{#A8E6CF}{\textsf{From Invincible}}$ 
 
  <p alalign="center">
   <img src="" width="200">
