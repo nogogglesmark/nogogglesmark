@@ -46,6 +46,10 @@ $\color{#A8E6CF}{\textsf{to the artist!}}$
 </tr>
 </table>
 
-<p align="center">
+
+<p align="center">$\color{#A8E6CF}{\textsf{Alt Account for}}$
+$\color{#A8E6CF}{\textsf{No Goggles Mark}}$ 
+
+ <p alalign="center">
   <img src="" width="200">
 </p>
