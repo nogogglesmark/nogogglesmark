@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/fRY3JqWP/In-Shot-20260908-043626471.png" width="500"
+  <img src="https://i.postimg.cc/pV0c6qHJ/In-Shot-20260908-045426128.png" width="500"
   <br><br>
-  <a href="YOUR-ATABOOK-LINK">♡𝐴𝑡𝑎♡</a>
+  <a href="YOUR-ATABOOK-LINK">♡-𝐴𝑡𝑎</a>
 </p>
