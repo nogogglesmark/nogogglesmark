@@ -48,11 +48,6 @@ $\color{#A8E6CF}{\textsf{to the artist!}}$
 </tr>
 </table>
 
-
-<p align="center">$\color{#A8E6CF}{\textsf{Alt Account for}}$
-$\color{#A8E6CF}{\textsf{No Goggles Mark}}$
-$\color{#A8E6CF}{\textsf{From Invincible}}$ 
-
  <p alalign="center">
   <img src="https://i.postimg.cc/XqcNkqqP/In-Shot-20260908-072529519.png" width="200">
 </p>
