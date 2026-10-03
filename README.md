@@ -22,6 +22,7 @@
   <img src="https://i.postimg.cc/pV0c6qHJ/In-Shot-20260908-045426128.png" width="500"
   <br><br>
   <a href="https://supermanbanny.atabook.org">♡-𝐴𝑡𝑎</a>
+  <a href="https://bannysupermann.straw.page">♡-𝑆𝑡𝑟𝑎𝑤𝑝𝑎𝑔𝑒</a>
 </p>
 
 
