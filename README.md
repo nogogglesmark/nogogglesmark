@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A8E6CF,100:A8E6CF&height=2&section=header"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=50&duration=3500&pause=1200&color=A8E6CF&center=true&vCenter=true&width=900&lines=No+torture%2C+no+screaming%2C+no+fun!!" />
-</p>
 
 <div align="center">
 <img src="https://img.shields.io/badge/♡-30.6k-A8E6CF?labelColor=555555">
@@ -10,13 +6,7 @@
  <a
 
 <div align="center">
-<img src="https://i.postimg.cc/htWpNGCQ/3f5bcb6cb126f029823af8a5fce4e54c.gif" width="30">
-</a> 
-<a
- 
-  <div align="center">
-<img src="https://img.shields.io/badge/Kills-56K-A8E6CF?labelColor=555555"> 
-</a> 
+
 
 <p align="center">
   <img src="https://i.postimg.cc/pV0c6qHJ/In-Shot-20260908-045426128.png" width="500"
@@ -33,24 +23,3 @@
 <p align="center">
   <img src="https://i.postimg.cc/MpmNDRWG/In-Shot-20260908-043739209.png" width="450">
 </p>
-
-<table align="center">
-<tr>
-
-<td align="center">
-<img src="https://i.postimg.cc/BQqVvbTV/In-Shot-20260908-043252680.png" width="300" alt="Artwork">
-</td>
-
-<td align="center">
-$\color{#A8E6CF}{\textsf{all the Credits}}$ 
-$\color{#A8E6CF}{\textsf{to the artist!}}$ 
-</td>
-
-</tr>
-</table>
-
- <p alalign="center">
-  <img src="https://i.postimg.cc/XqcNkqqP/In-Shot-20260908-072529519.png" width="200">
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A8E6CF,100:A8E6CF&height=2&section=header"/>
